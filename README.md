@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# 🌟 React Projects Collection
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository is a collection of React mini-projects and custom hooks that I built to sharpen my React.js skills and understand real-world UI/UX patterns. Each feature showcases a specific concept, interaction, or API integration — ideal for beginners and intermediate developers looking to explore practical React use cases.
 
-## Available Scripts
+🔧 Features & Projects Included
+✅ Accordion UI – Expand/collapse content dynamically
 
-In the project directory, you can run:
+🎨 Random Color Generator – Generate and copy random HEX colors
 
-### `npm start`
+⭐ Star Rating Component – Interactive rating system
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🖼️ Image Slider – Auto/manual sliding carousel
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+➕ Load More Button – Incremental data loading pattern
 
-### `npm test`
+🌳 Tree View – Expandable folder-like nested structure
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+📸 QR Code Generator – Generate QR codes from input text
 
-### `npm run build`
+🌙 Light/Dark Mode – Toggle between themes with localStorage support
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+📏 Scroll Indicator – Progress bar that tracks page scroll
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🧩 Tabs UI – Switch between tabbed content
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+💬 Modal Popup – Reusable and responsive modal component
 
-### `npm run eject`
+🧑‍💻 GitHub Profile Finder – Fetch public GitHub data via API
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🔍 Search Autocomplete (API) – Dynamic suggestions while typing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+🎮 Tic Tac Toe Game – Classic 2-player game with game state
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🚩 Feature Flags – Toggle app features dynamically (config-based)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🪝 Custom Hooks:
 
-## Learn More
+useFetch – For data fetching with loading/error handling
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+useOnClickOutside – Detect clicks outside a component (for modals, dropdowns)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+useWindowResize – Get window size on resize
 
-### Code Splitting
+⬆️⬇️ Scroll Utilities
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Scroll to top/bottom
 
-### Analyzing the Bundle Size
+Scroll to specific section smoothly
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+📚 What I Learned
+React fundamentals and advanced hooks
 
-### Making a Progressive Web App
+Component architecture and reusability
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+State management and effects
 
-### Advanced Configuration
+API integration and error handling
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Modular CSS and animation basics
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Improving UX with feature flags and scroll behaviors
